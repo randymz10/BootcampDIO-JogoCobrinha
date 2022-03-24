@@ -1,7 +1,18 @@
-# BootcampDIO-JogoCobrinha
-Projeto do bootccamp HTML web developer da Digital Innovation One "Recriando o jogo da cobrinha com JavaScript"
+# Snake Game :snake: 
+Project of the HTML web developer bootcamp "Recreating the snake game with JavaScript" of  Digital Innovation One with specialist Gabriela Pinheiro
 
-## Teconologias:
+---
+## Screenshot
+
+---
+## Build in
 - HTML5
 - CSS3
 - Javascript
+
+---
+## Demo
+
+---
+## Author
+[@randymz10](https://github.com/randymz10)
