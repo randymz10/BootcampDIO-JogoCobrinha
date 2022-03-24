@@ -3,6 +3,7 @@ Project of the HTML web developer bootcamp "Recreating the snake game with JavaS
 
 ---
 ## Screenshot
+
 ![](https://github.com/randymz10/BootcampDIO-JogoCobrinha/blob/master/img/Snake-Game.jpg)
 
 ---
@@ -13,7 +14,9 @@ Project of the HTML web developer bootcamp "Recreating the snake game with JavaS
 
 ---
 ## Demo
+
 https://randymz10.github.io/BootcampDIO-JogoCobrinha/index.html
+
 ---
 ## Author
 [@randymz10](https://github.com/randymz10)
