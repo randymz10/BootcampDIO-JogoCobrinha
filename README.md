@@ -20,3 +20,5 @@ https://randymz10.github.io/BootcampDIO-JogoCobrinha/index.html
 ---
 ## Author
 [@randymz10](https://github.com/randymz10)
+
+Credits to [@SpruceGabriela](https://github.com/SpruceGabriela)
